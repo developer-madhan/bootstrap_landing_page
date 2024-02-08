@@ -10,10 +10,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Slider />
-      <AboutUs />
-      <ContactForm />
-      <Footer />
+      
     </div>
   );
 }

@@ -29,4 +29,4 @@ const Header = () => {
   );
 };
 
-export default Header;
+export default Header; // Make sure you have this line
